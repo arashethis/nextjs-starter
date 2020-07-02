@@ -1,0 +1,8 @@
+# dependencies
+/node_modules
+
+# testing
+**/*.test.js
+
+# build
+.next/

@@ -1,0 +1,12 @@
+{
+  "files.autoSave": "off",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact"
+  ],
+  "prettier.configPath": "./.prettierrc.js",
+  "prettier.disableLanguages": ["css", "scss"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}

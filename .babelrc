@@ -1,0 +1,11 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    /**
+     * export * as ns from 'mod';
+     * export v from 'mod';
+     */
+     ["styled-components", { "ssr": true }],
+     "transform-export-extensions"
+  ]
+}
